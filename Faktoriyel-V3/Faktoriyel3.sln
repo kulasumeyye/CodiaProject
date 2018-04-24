@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktoriyel3", "Faktoriyel3\Faktoriyel3.csproj", "{BBAEA897-A303-4040-8999-040402FF70CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAEA897-A303-4040-8999-040402FF70CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAEA897-A303-4040-8999-040402FF70CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAEA897-A303-4040-8999-040402FF70CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAEA897-A303-4040-8999-040402FF70CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
