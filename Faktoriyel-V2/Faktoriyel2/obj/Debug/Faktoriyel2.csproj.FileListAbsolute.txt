@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\bin\Debug\Faktoriyel2.exe.config
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\bin\Debug\Faktoriyel2.exe
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\bin\Debug\Faktoriyel2.pdb
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\obj\Debug\Faktoriyel2.Form1.resources
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\obj\Debug\Faktoriyel2.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\obj\Debug\Faktoriyel2.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\obj\Debug\Faktoriyel2.exe
+C:\Users\user\Desktop\Github1\Faktoriyel2\Faktoriyel2\obj\Debug\Faktoriyel2.pdb
