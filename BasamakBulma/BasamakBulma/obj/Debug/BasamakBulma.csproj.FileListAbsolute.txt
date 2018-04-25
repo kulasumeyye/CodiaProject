@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Github1\BasamakBulma\BasamakBulma\bin\Debug\BasamakBulma.exe.config
+C:\Users\user\Desktop\Github1\BasamakBulma\BasamakBulma\bin\Debug\BasamakBulma.exe
+C:\Users\user\Desktop\Github1\BasamakBulma\BasamakBulma\bin\Debug\BasamakBulma.pdb
+C:\Users\user\Desktop\Github1\BasamakBulma\BasamakBulma\obj\Debug\BasamakBulma.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\BasamakBulma\BasamakBulma\obj\Debug\BasamakBulma.exe
+C:\Users\user\Desktop\Github1\BasamakBulma\BasamakBulma\obj\Debug\BasamakBulma.pdb
