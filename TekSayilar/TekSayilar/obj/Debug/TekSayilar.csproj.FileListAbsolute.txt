@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\bin\Debug\TekSayilar.exe.config
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\bin\Debug\TekSayilar.exe
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\bin\Debug\TekSayilar.pdb
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\obj\Debug\TekSayilar.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\obj\Debug\TekSayilar.Form1.resources
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\obj\Debug\TekSayilar.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\obj\Debug\TekSayilar.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\obj\Debug\TekSayilar.exe
+C:\Users\user\Desktop\Github1\TekSayilar\TekSayilar\obj\Debug\TekSayilar.pdb
