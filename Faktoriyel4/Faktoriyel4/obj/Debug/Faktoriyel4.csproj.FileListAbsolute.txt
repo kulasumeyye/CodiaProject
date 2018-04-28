@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Github1\Faktoriyel4\Faktoriyel4\bin\Debug\Faktoriyel4.exe.config
+C:\Users\user\Desktop\Github1\Faktoriyel4\Faktoriyel4\bin\Debug\Faktoriyel4.exe
+C:\Users\user\Desktop\Github1\Faktoriyel4\Faktoriyel4\bin\Debug\Faktoriyel4.pdb
+C:\Users\user\Desktop\Github1\Faktoriyel4\Faktoriyel4\obj\Debug\Faktoriyel4.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\Faktoriyel4\Faktoriyel4\obj\Debug\Faktoriyel4.exe
+C:\Users\user\Desktop\Github1\Faktoriyel4\Faktoriyel4\obj\Debug\Faktoriyel4.pdb
