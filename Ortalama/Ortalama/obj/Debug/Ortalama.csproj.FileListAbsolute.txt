@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\bin\Debug\Ortalama.exe.config
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\bin\Debug\Ortalama.exe
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\bin\Debug\Ortalama.pdb
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\obj\Debug\Ortalama.Form1.resources
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\obj\Debug\Ortalama.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\obj\Debug\Ortalama.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\obj\Debug\Ortalama.exe
+C:\Users\user\Desktop\Github1\Ortalama\Ortalama\obj\Debug\Ortalama.pdb
