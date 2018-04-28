@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\bin\Debug\CiftSayilar.exe.config
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\bin\Debug\CiftSayilar.exe
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\bin\Debug\CiftSayilar.pdb
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\obj\Debug\CiftSayilar.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\obj\Debug\CiftSayilar.Form1.resources
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\obj\Debug\CiftSayilar.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\obj\Debug\CiftSayilar.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\obj\Debug\CiftSayilar.exe
+C:\Users\user\Desktop\Github1\CiftSayilar\CiftSayilar\obj\Debug\CiftSayilar.pdb
