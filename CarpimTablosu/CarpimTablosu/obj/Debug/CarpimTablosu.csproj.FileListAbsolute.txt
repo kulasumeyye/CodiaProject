@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\Github1\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe.config
+C:\Users\user\Desktop\Github1\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.exe
+C:\Users\user\Desktop\Github1\CarpimTablosu\CarpimTablosu\bin\Debug\CarpimTablosu.pdb
+C:\Users\user\Desktop\Github1\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.exe
+C:\Users\user\Desktop\Github1\CarpimTablosu\CarpimTablosu\obj\Debug\CarpimTablosu.pdb
