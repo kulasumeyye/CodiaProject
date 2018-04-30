@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe.config
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.exe
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\bin\Debug\AsalSayilar.pdb
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.Form1.resources
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.exe
+C:\Users\user\Desktop\Github1\AsalSayilar\AsalSayilar\obj\Debug\AsalSayilar.pdb
