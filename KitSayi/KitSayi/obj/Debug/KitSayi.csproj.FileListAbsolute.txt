@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\bin\Debug\KitSayi.exe.config
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\bin\Debug\KitSayi.exe
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\bin\Debug\KitSayi.pdb
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\obj\Debug\KitSayi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\obj\Debug\KitSayi.Form1.resources
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\obj\Debug\KitSayi.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\obj\Debug\KitSayi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\obj\Debug\KitSayi.exe
+C:\Users\user\Desktop\Github1\KitSayi\KitSayi\obj\Debug\KitSayi.pdb
