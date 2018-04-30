@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\bin\Debug\ZenginSayi.exe.config
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\bin\Debug\ZenginSayi.exe
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\bin\Debug\ZenginSayi.pdb
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\obj\Debug\ZenginSayi.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\obj\Debug\ZenginSayi.Form1.resources
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\obj\Debug\ZenginSayi.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\obj\Debug\ZenginSayi.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\obj\Debug\ZenginSayi.exe
+C:\Users\user\Desktop\Github1\ZenginSayi\ZenginSayi\obj\Debug\ZenginSayi.pdb
