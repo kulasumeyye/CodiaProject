@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Github1\AracPark\AracPark\bin\Debug\AracPark.exe.config
+C:\Users\user\Desktop\Github1\AracPark\AracPark\bin\Debug\AracPark.exe
+C:\Users\user\Desktop\Github1\AracPark\AracPark\bin\Debug\AracPark.pdb
+C:\Users\user\Desktop\Github1\AracPark\AracPark\obj\Debug\AracPark.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\AracPark\AracPark\obj\Debug\AracPark.Form1.resources
+C:\Users\user\Desktop\Github1\AracPark\AracPark\obj\Debug\AracPark.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\AracPark\AracPark\obj\Debug\AracPark.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\AracPark\AracPark\obj\Debug\AracPark.exe
+C:\Users\user\Desktop\Github1\AracPark\AracPark\obj\Debug\AracPark.pdb
