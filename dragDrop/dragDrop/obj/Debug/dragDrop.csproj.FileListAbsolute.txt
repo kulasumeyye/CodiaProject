@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\bin\Debug\dragDrop.exe.config
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\bin\Debug\dragDrop.exe
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\bin\Debug\dragDrop.pdb
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\obj\Debug\dragDrop.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\obj\Debug\dragDrop.Form1.resources
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\obj\Debug\dragDrop.Properties.Resources.resources
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\obj\Debug\dragDrop.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\obj\Debug\dragDrop.exe
+C:\Users\user\Desktop\Github1\dragDrop\dragDrop\obj\Debug\dragDrop.pdb
