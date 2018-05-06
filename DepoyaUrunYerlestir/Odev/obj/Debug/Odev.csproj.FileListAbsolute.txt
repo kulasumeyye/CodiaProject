@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\user\Desktop\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\user\Desktop\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\user\Desktop\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\user\Desktop\Odev\Odev\obj\Debug\Odev.pdb
+C:\Users\user\Desktop\Masaüstü\Odev\Odev\bin\Debug\Odev.exe.config
+C:\Users\user\Desktop\Masaüstü\Odev\Odev\obj\Debug\Odev.exe
+C:\Users\user\Desktop\Masaüstü\Odev\Odev\obj\Debug\Odev.pdb
+C:\Users\user\Desktop\Masaüstü\Odev\Odev\bin\Debug\Odev.exe
+C:\Users\user\Desktop\Masaüstü\Odev\Odev\bin\Debug\Odev.pdb
+C:\Users\user\Desktop\Masaüstü\Odev\Odev\obj\Debug\Odev.csprojResolveAssemblyReference.cache
